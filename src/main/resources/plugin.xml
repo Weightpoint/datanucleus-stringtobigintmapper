@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<plugin
+   id="se.weightpoint.datanucleus-stringtobigintmapper"
+   name="String to BigInt mapper"
+   version="1.0"
+   provider-name="Weightpoint AB">
+    <extension point="org.datanucleus.store.rdbms.rdbms_mapping">
+        <mapping java-type="java.lang.String" 
+            rdbms-mapping-class="se.weightpoint.datanucleus.mapped.mapping.StringToBigIntRDBMSMaping" 
+            jdbc-type="BIGINT" sql-type="BIGINT" default="false"/>
+    </extension>
+</plugin>
