@@ -1,5 +1,5 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>se.weightpoint.datanucleus</groupId>
 	<artifactId>datanucleus-stringtobigintmapper</artifactId>
@@ -27,7 +27,7 @@
 	<developers>
 		<developer>
 			<id>nilo85</id>
-			<name>Niklas Lönn</name>
+			<name>Niklas LÃ¶nn</name>
 			<email>niklas.lonn@weightpoint.se</email>
 		</developer>
 	</developers>
